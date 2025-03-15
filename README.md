@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm [T.Sreevarsha] 👋
 
-<!--
-**Sreevarsha-12/Sreevarsha-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an Information Technology student passionate about **Cloud Computing, Software Development, and Cybersecurity**.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **Cloud Architecture & DevOps**
+- 💻 Skilled in **Python, Java, SQL, and Cloud Technologies**
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true)
+
+### Let's connect and collaborate! 🚀
